@@ -1,0 +1,31 @@
+body{width: 1000px; 
+    margin-top: 100px;
+    background-color: #F2D2BD	;
+}
+
+#tittle{ margin-top: 54px;
+        margin-left: 132px;
+}
+#descripcion{margin-left: calc(50% - 250px)
+}
+
+#formulario{     padding: 20px;
+    border-radius: 12px;
+    margin-left: calc(50% - 250px);
+    border: solid black;
+    background-color: #EADDCA	 ;
+}
+
+#tabla {    margin-left: calc(50% - 250px);
+        background-color: #a98e665c;
+}
+
+button.btn.btn-outline-success {
+    color: black;
+    border-color: black;
+}
+
+#tabla{
+
+}
+
